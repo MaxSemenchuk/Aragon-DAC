@@ -7,5 +7,5 @@ Team: Griff, ChrisA, Quazia, Eva, Gabriel, Kriss, Max
 Content:
 
 * Audience 1 / Message 1 / Channel 1
-* Audience 1 / Message 1 / Channel 1
+* Audience 2 / Message 2 / Channel 2
 
