@@ -1,6 +1,13 @@
 # Public Relations Group
 
-Aragon DAC public face: youtube, twitter, website, public design, organizational culture \(Flock\), vision \(Flock\)
+Aragon DAC public face:
+
+* youtube
+* twitter
+* linkedin
+* website
+* public design \(?\)
+* organizational culture + vision \(Flock\)
 
 Team: Griff, ChrisA, Quazia, Eva, Gabriel, Kriss, Max
 
