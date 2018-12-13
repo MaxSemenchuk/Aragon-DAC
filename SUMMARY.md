@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Operation](operation/README.md)
-  * [Public Relations Group](operation/public-relations.md)
+  * [Public Relations Plan](operation/public-relations.md)
 * [Projects](projects/README.md)
   * [Aragon DAC Website](projects/aragon-dac-website.md)
 * [Policies](policies/README.md)

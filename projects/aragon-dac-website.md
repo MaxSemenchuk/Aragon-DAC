@@ -1,15 +1,21 @@
 # Aragon DAC Website
 
-Purpose \(audience + need\)
-
-KPI
+Purpose / KPI: general feedback, information on DAC is correctly and fully represented
 
 ## Content
 
+* Positioning
+* Connect on Riot / Explore the giveth reports
 * Projects
+  * Aragon Development Campaign \(Arthur Lunn\) – improve the user and dev experience, with a special focus on integrating user feedback to create and improve tools for building new types of organizations with the Aragon Stack.
+    * hack.aragon.com \(Chris Abraham\)
+    * Payroll App / Protofire \(Manu\)
+    * Nest review \(multiple\)
+    * Identity?
+    * TCR?
+  * Community R&D Campaign Campaign \(Griff Green\) – helping normal end users have fun and success building organizations with the Aragon Stack
 * Team
-* Useful links
-* Contact form
+* Useful links: Riot, Giveth, Medium, Twitter
 
 ## Tasks
 

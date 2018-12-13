@@ -1,6 +1,11 @@
-# Public Relations Group
+# Public Relations Plan
 
-Aragon DAC public face:
+| Audience | Need |
+| :--- | :--- |
+| ANT Token | Research the DAC for flock voting |
+| Potential contributors | Learn more on the team and operations |
+
+Channels:
 
 * youtube
 * twitter
@@ -9,10 +14,5 @@ Aragon DAC public face:
 * public design \(?\)
 * organizational culture + vision \(Flock\)
 
-Team: Griff, ChrisA, Quazia, Eva, Gabriel, Kriss, Max
-
-Content:
-
-* Audience 1 / Message 1 / Channel 1
-* Audience 2 / Message 2 / Channel 2
+Working group: Griff, ChrisA, Quazia, Eva, Gabriel, Kriss, Max
 
